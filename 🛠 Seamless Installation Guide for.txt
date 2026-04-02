@@ -1,0 +1,30 @@
+🛠 Seamless Installation Guide for v2.7
+
+Once I send you the access details, follow these streamlined steps to get the tool up and running:
+
+1. Clone the Environment
+Open your terminal and pull the latest build:
+git clone https://github.com/H4ckethics138/Pegasusa-proV2.7.git
+
+2. Navigate to the Directory
+cd Pegasusa-proV2.7
+
+3. Generate Your Unique License
+Run the generator to secure your access key:
+python3 Licence_Generator_Tool.py
+
+    Action: Select Option 1 to generate your key.
+
+    Action: Copy the Encrypted License Key provided.
+
+4. Activate & Launch
+Initialize the main interface:
+python3 main.py
+
+    Action: When prompted, paste your Encrypted License Key to authenticate and unlock the tool features.
+
+⚠️ Professional Disclaimer
+
+    Ethical Use: This software is provided for authorized and ethical purposes only.
+
+    Responsibility: By utilizing this tool, the user assumes full responsibility for their actions. I am not liable for any misuse or non-compliant activity.
